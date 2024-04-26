@@ -1,1 +1,6 @@
 console.log("hola mundo")
+console.log("hola bb")
+console.log("nando")
+console.log("wendy")
+console.log("Milo")
+console.log("nino")
